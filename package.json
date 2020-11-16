@@ -2,5 +2,9 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "@types/faker": "^5.1.4",
+    "faker": "^5.1.0"
   }
 }
